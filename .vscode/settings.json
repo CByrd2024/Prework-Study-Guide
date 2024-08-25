@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/prework-study-guide/index.html"
+    "livePreview.defaultPreviewPath": "/prework-study-guide/index.html",
+    "liveServer.settings.port": 5501
 }
